@@ -202,6 +202,7 @@ GEM
       nokogiri (~> 1.8)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -214,7 +215,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   pg
   pry-rails
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.2.0)
   rails-i18n (~> 5.1)
   sass-rails (~> 5.0)
